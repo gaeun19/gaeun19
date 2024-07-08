@@ -49,12 +49,23 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaeun19&layout=compact&show_icons=true&show_owner=true&hide_title=ture&theme=nord&" />
   </a>
 </p>
+
+<h2 align="center">👩‍💻 My Github Stats 👩‍💻</h2>
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/gaeun19">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaeun19&hide=false&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
 </p>
+<h3 align="center">💡 Hits 💡</h3>
+<p align="center">
+  <a href="https://github.com/gaeun19"><img src="https://github.com/gaeun19/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+
+
+
+
+
 <!--
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
