@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 ___이가은___입니다!
+### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 이가은입니다!
 
 <!-- Body -->
 
