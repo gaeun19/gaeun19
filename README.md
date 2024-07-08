@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/gaeun19">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${gaeun19}&hide=false&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaeun19&hide=false&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
 </p>
 
