@@ -16,21 +16,24 @@ Here are some ideas to get you started:
 # 🙇 안녕하세요,AI 엔지니어로 성장해나가고 있는 이가은입니다!
 
 <!-- Body -->
+<center>
 
-<p align="center">
 ### 🦾 Skills 🦾
 
 **🧑‍💻 Lang and Frameworks**
+
+</center>
 
 
   <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python">
   <img src="https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black" alt="java">
 </p>
 
+<center>
 
-<p align="center">
 **🛠️ Infra and Tools 🛠️**
 
+</center>
 
   <img src="https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" alt="linux">
   <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="git">
