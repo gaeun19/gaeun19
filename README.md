@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 # 🙇 안녕하세요,AI 엔지니어로 성장해나가고 있는 이가은입니다!
 
 <!-- Body -->
-<center>
 
+<center>
 ### 🦾 Skills 🦾
 
 **🧑‍💻 Lang and Frameworks**
-
 </center>
 
 <p align="center">
@@ -30,9 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 <center>
-
 **🛠️ Infra and Tools 🛠️**
-
 </center>
 <p align="center">
   <img src="https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" alt="linux">
