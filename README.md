@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **gaeun19/gaeun19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🙇 안녕하세요,AI 엔지니어로 성장해나가고 있는 이가은입니다!
+# 🙇 안녕하세요,AI 엔지니어로 성장해나가고 있는 이가은입니다!
 
 <!-- Body -->
 
@@ -23,7 +21,6 @@ Here are some ideas to get you started:
 **🧑‍💻 Lang and Frameworks**
 
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-<!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
 
 
