@@ -17,24 +17,26 @@ Here are some ideas to get you started:
 
 <!-- Body -->
 
-<center>
-  
+<div style="text-align: center;">
+
 ### 🦾 Skills 🦾
 
 **🧑‍💻 Lang and Frameworks**
 
-</center>
+</div>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python">
   <img src="https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black" alt="java">
 </p>
 
-<center>
-  
+<div style="text-align: center;">
+
 **🛠️ Infra and Tools 🛠️**
 
-</center>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" alt="linux">
