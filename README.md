@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 # 🙇 안녕하세요,AI 엔지니어로 성장해나가고 있는 이가은입니다!
 
 <!-- Body -->
-<p align="center">
+
 ### 🦾 Skills 🦾
 **🧑‍💻 Lang and Frameworks**
   ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
   ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
-</p>
 
-<p align="center">
+
+
 **🛠️ Infra and Tools 🛠️**
   
   ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
   ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
   ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
-</p>
+
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
