@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <p align="center">
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
-
+</p>
+<p align="center">
   ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
   ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
 </p>
@@ -42,7 +43,7 @@ Here are some ideas to get you started:
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/gaeun19">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaeun&layout=compact&show_icons=true&show_owner=true&hide_title=ture&theme=nord&" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaeun19&layout=compact&show_icons=true&show_owner=true&hide_title=ture&theme=nord&" />
   </a>
 </p>
 <h3 align="center">💡 My Git Stats 💡</h3>
