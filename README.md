@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=GA-EUN%20LEE&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=d6ace6&height=300&section=header&text=GA-EUN%20LEE&fontSize=90" />
 
 <!-- Body -->
 
