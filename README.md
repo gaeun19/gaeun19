@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 <!-- Body -->
 
 <center>
+  
 ### 🦾 Skills 🦾
 
 **🧑‍💻 Lang and Frameworks**
+
 </center>
 
 <p align="center">
@@ -29,8 +31,11 @@ Here are some ideas to get you started:
 </p>
 
 <center>
+  
 **🛠️ Infra and Tools 🛠️**
+
 </center>
+
 <p align="center">
   <img src="https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" alt="linux">
   <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="git">
