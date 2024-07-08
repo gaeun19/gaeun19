@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🙇 안녕하세요, AI 엔지니어로 성장해나가고 있는 이가은입니다!
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=GA-EUN%20LEE&fontSize=90" />
 
 <!-- Body -->
 
