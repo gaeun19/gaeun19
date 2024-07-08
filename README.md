@@ -13,18 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🙇 안녕하세요,AI 엔지니어로 성장해나가고 있는 이가은입니다!
+# 🙇 안녕하세요, AI 엔지니어로 성장해나가고 있는 이가은입니다!
 
 <!-- Body -->
 
-<div style="text-align: center;">
-
-### 🦾 Skills 🦾
-
-**🧑‍💻 Lang and Frameworks**
-
-</div>
-
+<h2 align="center"> 🦾 Skills 🦾</h2>
+<h3 align="center">💡 Lang and Frameworks 💡</h3>
 
 
 <p align="center">
@@ -32,11 +26,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black" alt="java">
 </p>
 
-<div style="text-align: center;">
-
-**🛠️ Infra and Tools 🛠️**
-
-</div>
+<h3 align="center">💡 Infra and Tools 💡</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" alt="linux">
